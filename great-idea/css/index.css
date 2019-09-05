@@ -272,6 +272,7 @@ header .logo {
     width: 45%;
     height: 10%;
     padding: 10px;
+    margin: 10px;
 }
 
 .service-content button {
