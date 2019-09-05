@@ -338,8 +338,9 @@ header .logo {
 }
 
 .bottom ul {
-    list-style-type: disc;
+    list-style-type: square;
     margin-top: 20px;
+    margin-left: 20px;
 }
 
 footer {
